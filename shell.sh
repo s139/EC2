@@ -1,3 +1,4 @@
-echo "##shell script file##"
-echo "###Eceuting the shell script on server###::`hostname`"
+echo "##Shell Script File##"
+
+echo "###Executing the shell script on Server###::`hostname`"
 pwd
